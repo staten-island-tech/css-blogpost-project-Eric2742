@@ -1,0 +1,18 @@
+body {
+  font-family: "Architects Daughter", cursive;
+  background-color: #7ce5779;
+  font-size: 25px;
+}
+
+.main-header {
+  color: #037971;
+  text-align: center;
+}
+
+.blogs {
+  background-color: #9cffd9;
+  color: #7bc950;
+  padding-bottom: 800px;
+  margin: 40px 500px;
+  text-align: center;
+}
