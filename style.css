@@ -1,6 +1,6 @@
 body {
   font-family: "Architects Daughter", cursive;
-  background-color: #7ce5779;
+  background: radial-gradient(circle, #46e072 0%, #46d2b0 57%, #0b98dd 100%);
   font-size: 25px;
 }
 
@@ -10,9 +10,11 @@ body {
 }
 
 .blogs {
-  background-color: #9cffd9;
+  background-color: #baffdf;
   color: #7bc950;
-  padding-bottom: 800px;
-  margin: 40px 500px;
+  padding-bottom: 650px;
+  margin: 35px 585px;
   text-align: center;
+  border: 3px dotted #9dc0bc;
+  border-radius: 50px;
 }
