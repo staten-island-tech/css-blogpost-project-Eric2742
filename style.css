@@ -15,30 +15,23 @@ body {
   margin: 35px 675px;
   color: #14b4a9;
   text-align: center;
-
   border: 3px dotted #66b1a7;
   border-radius: 50px;
+  background-position: center 25%;
+  background-repeat: no-repeat;
+  background-size: 400px 400px;
 }
 
 #blog-1 {
   background-image: url(images/Gorilla.png);
-  background-position: center 25%;
-  background-repeat: no-repeat;
-  background-size: 400px 400px;
 }
 
 #blog-2 {
   background-image: url(images/Dog.jpg);
-  background-position: center 25%;
-  background-repeat: no-repeat;
-  background-size: 400px 400px;
 }
 
 #blog-3 {
   background-image: url(images/Rat.jpg);
-  background-position: center 25%;
-  background-repeat: no-repeat;
-  background-size: 400px 400px;
 }
 
 h4 {
